@@ -21,7 +21,7 @@
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
                         <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">CENTRO HISTÓRICO
-LA CANDELARIA 04 de Diciembre de 2016</div>
+LA CANDELARIA 12 de Febrero de 2017</div>
 
                     </div>
 <br>
@@ -128,7 +128,7 @@ LA CANDELARIA 04 de Diciembre de 2016</div>
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>04 de Diciembre de 2016</p>
+                                            <p>12 de Febrero de 2017</p>
 
                                         </td>
 
